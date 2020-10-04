@@ -48,6 +48,7 @@ body {
 .article {
     background-color: rgba(228, 15, 15, 0.5);
     text-align: left;
+    word-wrap:normal;
     color: navy;
 }
 
